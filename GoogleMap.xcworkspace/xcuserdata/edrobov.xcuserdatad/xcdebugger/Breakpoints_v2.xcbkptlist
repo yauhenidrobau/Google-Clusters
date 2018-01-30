@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Google-Maps-iOS-Utils/src/Clustering/View/GMUDefaultClusterRenderer.m"
+            timestampString = "538999842.4125071"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "-renderCluster:animated:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GMUDefaultClusterRenderer renderCluster:animated:]"
+                  moduleName = "GoogleMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yauhenidrobau/Documents/Work/GoogleMap/Pods/Google-Maps-iOS-Utils/src/Clustering/View/GMUDefaultClusterRenderer.m"
+                  timestampString = "538995041.88641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "821">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GMUDefaultClusterRenderer renderCluster:animated:]"
+                  moduleName = "GoogleMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yauhenidrobau/Documents/Work/GoogleMap/Pods/Google-Maps-iOS-Utils/src/Clustering/View/GMUDefaultClusterRenderer.m"
+                  timestampString = "538995041.890224"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "829">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Google-Maps-iOS-Utils/src/Clustering/View/GMUDefaultClusterRenderer.m"
+            timestampString = "538999842.412575"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "-addOrUpdateClusters:animated:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GMUDefaultClusterRenderer addOrUpdateClusters:animated:]"
+                  moduleName = "GoogleMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yauhenidrobau/Documents/Work/GoogleMap/Pods/Google-Maps-iOS-Utils/src/Clustering/View/GMUDefaultClusterRenderer.m"
+                  timestampString = "538995531.134897"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "891">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GMUDefaultClusterRenderer addOrUpdateClusters:animated:]"
+                  moduleName = "GoogleMap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yauhenidrobau/Documents/Work/GoogleMap/Pods/Google-Maps-iOS-Utils/src/Clustering/View/GMUDefaultClusterRenderer.m"
+                  timestampString = "538995531.138502"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "899">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
